@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TR∅XZY</string>
+    <string name="channel_name">Floating control panel</string>
+    <string name="channel_description">Keeps the user-started floating controls available.</string>
+</resources>
